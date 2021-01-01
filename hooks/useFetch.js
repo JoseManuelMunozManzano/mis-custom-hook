@@ -1,5 +1,4 @@
 // Este custom Hook nos permite hacer peticiones a cualquier URL
-
 import { useEffect, useState, useRef } from 'react';
 
 export const useFetch = url => {
